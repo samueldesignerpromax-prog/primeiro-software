@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Vercel
+.vercel
+*.pkl
+*.pickle
+*.h5
+*.joblib
+*.onnx
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Uploads
+/uploads/
+/temp/
+*.jpg
+*.jpeg
+*.png
+*.gif
+!static/placeholder.jpg
+
+# Environment
+.env
+*.env
